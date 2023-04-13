@@ -1,3 +1,7 @@
+# How To Use
+
+To Use this Chat App the link https://super-cajeta-e2db03.netlify.app to see this chat app live & play with it simple :)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

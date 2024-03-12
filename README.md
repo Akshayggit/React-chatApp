@@ -1,4 +1,4 @@
-# How To Use
+# Deployed Link
 
 To Use this Chat App the link https://super-cajeta-e2db03.netlify.app to see this chat app live & play with it simple :)
 
